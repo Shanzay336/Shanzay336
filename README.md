@@ -5,122 +5,65 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;IT+Student;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+%7C+C%2B%2B+Developer;Building+Projects+Every+Day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Artificial+Intelligence+Enthusiast;Machine+Learning+Learner;Python+Developer;Always+Learning+New+Things+🚀"/>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+## 👩‍💻 About Me
 
-- 🎓 IT Student
-- 🌱 Currently learning Artificial Intelligence & Machine Learning
-- 💻 Python • C++ • HTML • CSS • JavaScript
+- 🎓 Information Technology Student
+- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
+- 💻 Skilled in **Python, C++, HTML, CSS & JavaScript**
 - 🚀 Passionate about building real-world projects
+- 🤝 Open to internships and collaborations
 - 📚 Always learning new technologies
-- 🤝 Open to Internship Opportunities
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,mysql" />
-
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,bootstrap,git,github,vscode,mysql,linux&perline=6"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 📈 Contribution Graph
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shanzay336&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanzay336&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanzay336&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🌐 Connect With Me
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shanzay336&theme=tokyonight&hide_border=true"/>
-
+  <a href="https://www.linkedin.com/in/shanzay-ahmad-1141a2402/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Shanzay336">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## ✍️ Random Dev Quote
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shanzay336&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+## 👀 Profile Views
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shanzay336&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
+  <img src="https://komarev.com/ghpvc/?username=Shanzay336&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shanzay336/Shanzay336/output/github-contribution-grid-snake-dark.svg"/>
-
-<img alt="Snake Animation" src="https://raw.githubusercontent.com/Shanzay336/Shanzay336/output/github-contribution-grid-snake.svg"/>
-
-</picture>
-
-</p>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/shanzay-ahmad-1141a2402/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Shanzay336">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Shanzay336&style=for-the-badge&color=blue"/>
-
-</p>
-
----
-
-<h3 align="center">
-
-⭐ Thanks for Visiting My GitHub Profile ⭐
-
-</h3>
+<h3 align="center">⭐ Thanks for Visiting My GitHub Profile ⭐</h3>
